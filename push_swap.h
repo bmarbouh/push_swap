@@ -5,4 +5,5 @@
 
 char    **ft_split(char *str);
 int     ft_atoi(char *str);
+void    show_error()
 #endif
